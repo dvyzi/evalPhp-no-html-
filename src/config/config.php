@@ -6,7 +6,7 @@ define("VIEWS", '../src/views/');
 
 // HOST  DATABASE USER PASSWORD  sont des constantes définies dans le fichier de config
 // qui permettent de définir l'adresse du serveur, le nom de la base de données et le login
-//oechec
+
 //POUR WINDOWS POUR WINDOWS POUR WINDOWS POUR WINDOWS POUR WINDOWS POUR WINDOWS POUR WINDOWS POUR WINDOWS POUR WINDOWS POUR WINDOWS POUR WINDOWS POUR WINDOWS
 define('HOST', 'localhost:3306');
 define('DATABASE', 'cooker');
